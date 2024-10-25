@@ -113,6 +113,8 @@ class Simple_Regression_Model:
         plt.legend()
         plt.show()
 
+        return
+
     def summary(self):
         if not self.fitted:
             raise Exception("Model not fitted yet. Please call the 'fit' method before summary.")
