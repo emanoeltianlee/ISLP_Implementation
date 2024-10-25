@@ -71,7 +71,7 @@ class Simple_Regression_Model:
         return
 
 
-    def confidence_intervals(self, width):
+    def confidence_intervals(self, width=95):
         if not self.fitted:
             raise Exception("Model not yet fitted."
                             "Please call the 'fit' method before computing confidence intervals.")
@@ -147,7 +147,6 @@ def main():
     model.summary()
 
     print(model.hypothesis_test())
-
     print(model.confidence_intervals(95))
 
     model.plot_residuals()
