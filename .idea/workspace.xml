@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500750c2-9a82-402b-86ff-80f71fff03c9" name="Changes" comment="Classification" />
+    <list default="true" id="500750c2-9a82-402b-86ff-80f71fff03c9" name="Changes" comment="Clean">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch. 3 Supplement/KNN Algorithms.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,13 +44,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.KNN Algorithms.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Basic Decision Tree.executor": "Run",
+    "Python.KNN Algorithms.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="KNN Algorithms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ISL Implementation" />
@@ -121,7 +125,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729618783396</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Classification">
+      <option name="closed" value="true" />
+      <created>1729841505668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729841505668</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Classification">
+      <option name="closed" value="true" />
+      <created>1729841628939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729841628939</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Clean">
+      <option name="closed" value="true" />
+      <created>1729841671967</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729841671967</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Yes I will Yes" />
     <MESSAGE value="Classification" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classification" />
+    <MESSAGE value="Clean" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean" />
   </component>
 </project>
